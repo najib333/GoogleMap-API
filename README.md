@@ -10,5 +10,3 @@ A sample XML file is included here.
 Added a custom Overlay View to customise the markers icon into a HTML element icon. In this case, I use a label tag as the markers icon.
 
 Each marker will contain an InfoWindow that pop up upon clicking the Marker. The content of the InfoWindow is customizable by using HTML tags.
-
-This is my first time contributing in GITHUB any errors or improvements is greatly appreciated. Thanks! :D
